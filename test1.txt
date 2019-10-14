@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is F2BF-650C
-
- Directory of C:\project\gitproject
-
-10/14/2019  01:37 PM    <DIR>          .
-10/14/2019  01:37 PM    <DIR>          ..
-10/14/2019  01:37 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  393,934,102,528 bytes free
+change 1
